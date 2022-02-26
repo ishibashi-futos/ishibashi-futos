@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![ishibashi-futos's GitHub status](https://github-readme-stats.vercel.app/api?username=ishibashi-futos&count_private=true&show_icons=true&theme=dracula&hide=contribs)<br>
+![ishibashi-futos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishibashi-futos&theme=dracula)
